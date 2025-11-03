@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860825939587",
+    "project_id": "tisha-12244",
+    "storage_bucket": "tisha-12244.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860825939587:android:d8b28d3ed42c0525dd75b6",
+        "android_client_info": {
+          "package_name": "com.tisha.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuAthOP6HmhVmYgF5YqP6865VGiXTh_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
